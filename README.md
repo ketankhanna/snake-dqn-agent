@@ -34,3 +34,7 @@ It trains live in a pygame window for up to one hour (or 25,000 episodes). Close
 
 ## Tech
 Python · TensorFlow/Keras · NumPy · pygame
+
+## Write-Up
+- [Final report](docs/Final_Report.pdf)
+- [Final presentation](docs/Final_Presentation.pdf)
